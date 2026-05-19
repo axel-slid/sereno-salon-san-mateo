@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sereno-salon-san-mateo.vercel.app/sitemap.xml
